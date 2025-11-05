@@ -59,10 +59,10 @@ Welcome to my GitHub profile! I'm passionate about turning data into insights an
 
 ## 🧭 Certifications
 
-- 📜 [Google Data Analytics Specialzation Certificate](#)
-- 📊 [Ibm Data Analytics Professional Certificate](#)
-- 🤖 [Alx Data Analytics](#)
-- 📊 [Microsoft Power Bi Data Analyst Professional Certificate](#) 
+- 📜 [Google Data Analytics Specialzation Certificate](https://www.coursera.org/account/accomplishments/specialization/L6WG5NCB25G2)
+- 📊 [Ibm Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/QJTNZN2PSMMN)
+- 🤖 [Alx Data Analytics](https://media.licdn.com/dms/image/v2/D4D2DAQENbrG1vnuAoA/profile-treasury-image-shrink_800_800/B4DZjy1sn3IgAc-/0/1756420819993?e=1762945200&v=beta&t=ZQP5GYA0ujcoMAEepjmtr8ih3dvP3IaMIuBahEnsqUM)
+- 📊 [Microsoft Power Bi Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/3A738OM87NFJ) 
 
 
 ---
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm passionate about turning data into insights an
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nouamanelahlal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="nouamane.lahlal@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nouamane.lahlal@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://nouamanelahlal.framer.ai/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
 
