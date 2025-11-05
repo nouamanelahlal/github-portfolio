@@ -47,7 +47,7 @@ The goal is to explore sales performance, customer behavior, and delivery patter
 
 ---
 
-### 🔹 [Project Name 2](https://github.com/yourusername/project2)
+### 🔹 [Data Analysis In Soccer](https://github.com/yourusername/project2)
 **Description:** A brief explanation of your dataset and objective.  
 **Tech Used:** SQL, Python, Tableau  
 **Highlights:**
