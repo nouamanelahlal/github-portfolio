@@ -37,13 +37,13 @@ Welcome to my GitHub profile! I'm passionate about turning data into insights an
 
 ## 📂 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/yourusername/project1)
-**Description:** Short summary of what this project does and what you achieved.  
-**Tech Used:** Python, scikit-learn, Power BI  
+### 🔹 [Olist](https://github.com/yourusername/project1)
+**Description:** This project analyzes data from Olist, a Brazilian e-commerce platform that connects small businesses to major online marketplaces.
+The goal is to explore sales performance, customer behavior, and delivery patterns to generate business insights and strategic recommendations. 
+**Tech Used:** SQL, Python, Power BI  
 **Highlights:**
-- Built an ML model with 90% accuracy
-- Automated data preprocessing pipeline
-- Visualized results with Power BI dashboard
+- Understand customer purchasing trends and seasonality in sales.
+- Identify top-performing product categories and high-value customers.
 
 ---
 
@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm passionate about turning data into insights an
 
 ## 🧭 Certifications
 
-- 📜 [Google Data Analytics Specialzation Certificate](https://www.coursera.org/account/accomplishments/specialization/L6WG5NCB25G2)
+- 📜 [Google Data Analytics Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/L6WG5NCB25G2)
 - 📊 [Ibm Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/QJTNZN2PSMMN)
 - 🤖 [Alx Data Analytics](https://media.licdn.com/dms/image/v2/D4D2DAQENbrG1vnuAoA/profile-treasury-image-shrink_800_800/B4DZjy1sn3IgAc-/0/1756420819993?e=1762945200&v=beta&t=ZQP5GYA0ujcoMAEepjmtr8ih3dvP3IaMIuBahEnsqUM)
 - 📊 [Microsoft Power Bi Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/3A738OM87NFJ) 
