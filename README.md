@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm passionate about turning data into insights an
 
 ## 📂 Featured Projects
 
-### 🔹 [Olist](https://github.com/yourusername/project1)
+### 🔹 [Olist](https://drive.google.com/drive/folders/19s3Z3tPJHIQei5sDZd6LXegM6zhr124c?usp=sharing)
 **Description:** This project analyzes data from Olist, a Brazilian e-commerce platform that connects small businesses to major online marketplaces.
 The goal is to explore sales performance, customer behavior, and delivery patterns to generate business insights and strategic recommendations. 
 **Tech Used:** SQL, Python, Power BI  
@@ -47,7 +47,7 @@ The goal is to explore sales performance, customer behavior, and delivery patter
 
 ---
 
-### 🔹 [Data Analysis In Soccer](https://github.com/yourusername/project2)
+### 🔹 [Data Analysis In Soccer](https://drive.google.com/drive/folders/19_pw9eDrTy8r0sHv6Dvr6rMh7aVAi16M?usp=sharing)
 **Description:** A brief explanation of your dataset and objective.  
 **Tech Used:** SQL, Python, Tableau  
 **Highlights:**
