@@ -63,7 +63,7 @@ The goal is to explore sales performance, customer behavior, and delivery patter
 - 📊 [Ibm Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/QJTNZN2PSMMN)
 - 🤖 [Alx Data Analytics](https://media.licdn.com/dms/image/v2/D4D2DAQENbrG1vnuAoA/profile-treasury-image-shrink_800_800/B4DZjy1sn3IgAc-/0/1756420819993?e=1762945200&v=beta&t=ZQP5GYA0ujcoMAEepjmtr8ih3dvP3IaMIuBahEnsqUM)
 - 📊 [Microsoft Power Bi Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/3A738OM87NFJ) 
-- 🚃 [Le Wagon Data Analytics & AI Certificate] 
+- 🚃 [Le Wagon Data Analytics & AI Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQGngYfD-gBl7g/profile-treasury-image-shrink_800_800/B4DZr1CIcQJAAc-/0/1765047568742?e=1765728000&v=beta&t=OfHc0TAaAOBTE-jwm0j5aQ41oNEWXriap2IQgk4Icbo)
 
 
 ---
