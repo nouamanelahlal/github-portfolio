@@ -48,7 +48,7 @@ The goal is to explore sales performance, customer behavior, and delivery patter
 ---
 
 ### 🔹 [Data Analysis In Soccer](https://drive.google.com/file/d/1ScmHUCf8Fc-LFvQ-M5k_CFbiuzZHJ9SL/view?usp=sharing)
-**Description:** A brief explanation of your dataset and objective.  
+**Description:** This project focused on applying data analysis, machine learning, and business intelligence to football player performance and injury data. The objective was to identify factors associated with player injuries, predict injury risk using machine learning models, and provide insights into player market value through interactive Power BI dashboards.  
 **Tech Used:** SQL, Python, Tableau  
 **Highlights:**
 - Data cleaning and feature engineering
