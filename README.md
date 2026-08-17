@@ -47,7 +47,7 @@ The goal is to explore sales performance, customer behavior, and delivery patter
 
 ---
 
-### 🔹 [Data Analysis In Soccer](https://drive.google.com/drive/folders/19_pw9eDrTy8r0sHv6Dvr6rMh7aVAi16M?usp=sharing)
+### 🔹 [Data Analysis In Soccer](https://drive.google.com/file/d/1ScmHUCf8Fc-LFvQ-M5k_CFbiuzZHJ9SL/view?usp=sharing)
 **Description:** A brief explanation of your dataset and objective.  
 **Tech Used:** SQL, Python, Tableau  
 **Highlights:**
